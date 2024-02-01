@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehreen Tamboli</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🔭 I’m currently working on **Scraping Data from Financial Statements, Building RESTful APIs and Speech Diarization.**
+- 🔭 I’m currently working on **Building content-based recommendation system engines & AI features of sentimental analysis of textual data.**
 
 - 👯 I’m looking to collaborate on **ML & GenAI projects.**
 
