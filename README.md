@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mehreen Tamboli</h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">An Aspiring Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Building content-based recommendation system engines & AI features of sentimental analysis of textual data.**
+- 🔭 I’m currently working on **Diversifying my knowledge in the field of GenAI**
 
-- 👯 I’m looking to collaborate on **ML & GenAI projects.**
+- 👯 I’m looking to collaborate on **Machine Learning & GenAI projects.**
 
 - 💬 Ask me about **Data Scraping techniques using Python.**
 
