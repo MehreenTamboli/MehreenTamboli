@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehreen Tamboli</h1>
-<h3 align="center">An Aspiring Data Scientist from India</h3>
+<h3 align="center">A Data Scientist from India</h3>
 
 - 🔭 I’m currently working on **Diversifying my knowledge in the field of GenAI**
 
